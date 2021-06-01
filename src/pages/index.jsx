@@ -8,7 +8,7 @@ const Index = () => (
     <Status />
     <View title="Firebase Authentication Starter">
       <p>
-      👋 **ss*This is a simple demo of creating dynamic pages with Gatsby that require <b>user authentication</b> and using <b>Firebase</b> as authentication provider. 
+      👋 ^^^This is a simple demo of creating dynamic pages with Gatsby that require <b>user authentication</b> and using <b>Firebase</b> as authentication provider. 
       </p>  
       <br/>
       <p>
