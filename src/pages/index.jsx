@@ -3,13 +3,12 @@ import { Link } from "gatsby"
 import Layout from "../components/Layout"
 import View from "../components/View"
 import Status from "../components/Status"
-
 const Index = () => (
   <Layout>
     <Status />
     <View title="Firebase Authentication Starter">
       <p>
-      👋 This is a simple demo of creating dynamic pages with Gatsby that require <b>user authentication</b> and using <b>Firebase</b> as authentication provider. 
+      👋 ***This is a simple demo of creating dynamic pages with Gatsby that require <b>user authentication</b> and using <b>Firebase</b> as authentication provider. 
       </p>  
       <br/>
       <p>
@@ -36,5 +35,4 @@ const Index = () => (
     </View>
   </Layout>
 )
-
 export default Index
